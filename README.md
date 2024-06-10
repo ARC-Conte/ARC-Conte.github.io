@@ -47,7 +47,7 @@
             input{
                 color: rgb(0, 255, 30);
                 background-color: rgb(0, 0, 0);
-                width:172px;
+                width:200px;
             }
             button{
                 color: red;
@@ -179,6 +179,7 @@
         <button id="button" type="button">enter</button>
         </div><br>
         <div style="overflow:auto; height: 500px;">
+        <h2>
   <script>  
   var button = document.getElementById("button");
   document.getElementById("v").textContent="1.0.2";
