@@ -47,7 +47,7 @@
             input{
                 color: rgb(0, 255, 30);
                 background-color: rgb(0, 0, 0);
-                width:200px;
+                width:185px;
             }
             button{
                 color: red;
