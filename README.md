@@ -180,8 +180,8 @@
         </div><br>
         <div style="overflow:auto; height: 500px;">
         <h2>News</h2>
-        <h3>Make sure to star!</h3>
-        <p>give my website a star<a href"https://github.com/McAllisterSchool/mcallisterschool.github.io"> click here</a></p>
+        <h3>For new members:</h3>
+        <p>You can get a higher rating if you do spectacular things or you get a new award.</p>
   <script>  
   var button = document.getElementById("button");
   document.getElementById("v").textContent="1.0.2";
