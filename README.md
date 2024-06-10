@@ -166,7 +166,7 @@
     </head>
 
                    
-        <h1>------------LINKER<sup>v<span id="v"></span></sup>------------</h1>
+        <h1>LINKER<sup>v<span id="v"></span></sup></h1>
         
     <div id="message">  
         
@@ -185,6 +185,7 @@
   var onButtonClick = function() {
     var cpass =["cpc","ModSquad","tech"];
     var apass =["ARCoder","code","sci"];
+    var mpass =[""];
     var password = document.getElementById("password").value;
     var name = document.getElementById("name").value;
     var greeting="<div id='window'>reload and type in a new linker<sup id='red'>code</sup></div>";
