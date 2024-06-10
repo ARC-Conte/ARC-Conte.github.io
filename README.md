@@ -165,19 +165,7 @@
         </style>
     </head>
         <body>
-            <dialog open=""><h3>New Notifcation</h3>
-                <div style="max-height: 150px; overflow: auto">
-                <code>
-                    <h1><em>NEW</em> SHOP</h1>
-                    <p>go to the shop with this link</p><br>
-                    <button onClick="n5()">Shop</button>
-                </code>
-            </div>
-            <form method="dialog"><br>
-                <button>Close</button>
-            </form>
-        </dialog>
-        
+                   
         <h1>------------LINKER<sup>v<span id="v"></span></sup>------------</h1>
         
     <div id="message">  
@@ -191,11 +179,6 @@
         <button id="button" type="button">enter</button>
         </div><br>
         <div style="overflow:auto; height: 500px;">
-        <button class="news"><h2 onClick="n1()">see: new updates</h2></button><br>
-        <br><button class="news"><h2 onClick="n2()">see: show and tell</h2></button><br>
-        <br><button class="news"><h2 onClick="n3()">see: A.R.C. story</h2></button><br>
-        <br><button class="news"><h2 onClick="n4()">see: getting a license</h2></button><br>
-        <br><button class="news"><h2 onClick="n5()">see: shop</h2></button></div>
   <script>// TO MUCH CODE{
   
   var button = document.getElementById("button");
@@ -237,26 +220,6 @@
     }
   };
   button.addEventListener("click", onButtonClick);
-  var n1 = function(){
-      var message ="<h2>updates</h2><ul>reqests:</ul><ol>updates in progres:</ol><ul>finshed:<li>a Christmas theam ~<span>linker</span><li>show and tell buttons ~cpc</ul>";
-      document.getElementById("message").innerHTML=message;
-  };
-  var n2 = function(){
-      var message ="<h2>show and tell</h2><h3>Canenball ~ C.P.C.</h3><p>this engine was a budget train it had no front coupler, it was all black, and no way to reverse from the transformer. I wanted to upgrade this engine panting it was a good start. For the way i use my trains i need a front coupler but i was not sure how to do it. Recently at a train show i found in a junk bin under a table a shell with a front coupler. It was only $2 and it was just what I had needed. when it was new in 1973 it was only avalibale in a set called the Canenball Express</p>";
-      document.getElementById("message").innerHTML=message;
-  };
-  var n3 = function(){
-      var message ="<h2>A.R.C. story</h2><p>Jack went walking and he found a man on the edge of a cliff, so he went to help him but going toward him was a bear. He quickly ran to his house to get his gun and kill the bear. Jack ran and ran and he was going so fast he tripped but he could not stop thing of how scared the man must be so he got back up and ran to his house.</p>";
-      document.getElementById("message").innerHTML=message;
-  };
-  var n4 = function(){
-      var message ="<h2>Want to post on <span>Linker</span></h2>";
-      document.getElementById("message").innerHTML=message;
-  };
-  var n5 = function(){
-      var message ="<h2>LINKER Shop</h2><ul style='font-size: 20px;'>items:<li>1 star 10 <sup>-linker-</sup><li>better avatar 15 <sup>-linker-</sup><li>1 star 10 <sup>-linker-</sup></ul>";
-      document.getElementById("message").innerHTML=message;
-  };
   //}</script>
     </body>
 </html>
