@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -33,7 +32,7 @@
     
     <script>
         function check (){
-            if(document.getElementById("name").value==="050408"||document.getElementById("name").value==="test"||document.getElementById("name").value==="tsc"){
+            if(document.getElementById("name").value==="ARCoder"||document.getElementById("name").value==="test"||document.getElementById("name").value==="tsc"){
             start();
             }
         }
