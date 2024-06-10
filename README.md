@@ -168,7 +168,7 @@
 
                    
         <h1>LINKER<sup>v<span id="v"></span></sup></h1>
-        
+        <img src="file:///C:/Users/thomc/OneDrive/Documents/homeschool/A.R.C/programing%20(Converted)/image.jpg">
     <div id="message">  
         
         <label>username:
