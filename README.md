@@ -168,7 +168,7 @@
 
                    
         <h1>LINKER<sup>v<span id="v"></span></sup></h1>
-        <img src="file:///C:/Users/thomc/OneDrive/Documents/homeschool/A.R.C/programing%20(Converted)/image.jpg">
+        <img src="[file:///C:/Users/thomc/OneDrive/Documents/homeschool/A.R.C/programing%20(Converted)/image.jpg](https://raw.githubusercontent.com/McAllisterSchool/mcallisterschool.github.io/cfd4af7320f51fa11a0e389b7cc35d233afbfbb7/image.jpg)">
     <div id="message">  
         
         <label>username:
