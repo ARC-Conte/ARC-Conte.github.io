@@ -2,6 +2,7 @@
     <head>
         <meta charset="utf-8">
         <title>linker</title>
+        <link rel="icon" type="image/x-icon" href="file:///C:/Users/thomc/OneDrive/Documents/homeschool/A.R.C/programing%20(Converted)/image.jpg">
         <style>
 
       ::selection {
