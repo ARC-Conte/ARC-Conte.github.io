@@ -1,4 +1,4 @@
-<html>
+
     <head>
         <meta charset="utf-8">
         <title>linker</title>
@@ -164,7 +164,7 @@
             }
         </style>
     </head>
-        <body>
+
                    
         <h1>------------LINKER<sup>v<span id="v"></span></sup>------------</h1>
         
@@ -220,5 +220,3 @@
   };
   button.addEventListener("click", onButtonClick);
   </script>
-    </body>
-</html>
