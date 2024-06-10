@@ -179,7 +179,9 @@
         <button id="button" type="button">enter</button>
         </div><br>
         <div style="overflow:auto; height: 500px;">
-        <h2>
+        <h2>News</h2>
+        <h3>Make sure to star!</h3>
+        <p>give my website a star<a href"https://github.com/McAllisterSchool/mcallisterschool.github.io"> click here</a></p>
   <script>  
   var button = document.getElementById("button");
   document.getElementById("v").textContent="1.0.2";
