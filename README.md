@@ -177,9 +177,9 @@
                 <button>Close</button>
             </form>
         </dialog>
-        <hr>
+        
         <h1>------------LINKER<sup>v<span id="v"></span></sup>------------</h1>
-        <hr>
+        
     <div id="message">  
         
         <label>username:
@@ -189,7 +189,7 @@
         </label>
         <br>
         <button id="button" type="button">enter</button>
-        </div><br><hr>
+        </div><br>
         <div style="overflow:auto; height: 500px;">
         <button class="news"><h2 onClick="n1()">see: new updates</h2></button><br>
         <br><button class="news"><h2 onClick="n2()">see: show and tell</h2></button><br>
