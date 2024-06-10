@@ -185,7 +185,7 @@
   var onButtonClick = function() {
     var cpass =["cpc","ModSquad","tech"];
     var apass =["ARCoder","code","sci"];
-    var mpass =[""];
+    var mpass =["painthon","slc","chem"];
     var password = document.getElementById("password").value;
     var name = document.getElementById("name").value;
     var greeting="<div id='window'>reload and type in a new linker<sup id='red'>code</sup></div>";
@@ -200,7 +200,8 @@
         
     }else if(name===cpass[0] && password===cpass[1] || name===cpass[2] && password===cpass[1]){
         greeting="<div id='window'>Your LINKER<sup id='red'>Code</sup> was succesful.</div><div class='cpc'>C.P.C.<br><img class='icon-cpc' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/robot_male_2.png'> rating: <img class='rating' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png'><img class='rating' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png'><img class='rating' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png'><label><select><option>bages:</option><option>join linker 🖥 </option></select></label><br><br> Welcome, C.P.C.</div>";
-
+    }else if(name===mpass[0] && password===mpass[1] || name===mpass[2] && password===mpass[1]){
+        greeting="<div id='window'>Your LINKER<sup id='red'>Code</sup> was succesful.</div><div class='painthon'>painthon<br><img class='icon-painthon' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/robot_male_2.png'> rating: <img class='rating' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png'><img class='rating' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png'><img class='rating' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png'><label><select><option>bages:</option><option>join linker 🖥 </option></select></label><br><br> Welcome, painthon</div>";
     }else if(name==="cpc"){
         greeting="<div class='page'><h2>C.P.C.</h2><ul>skills:<li>coding(pjs)<li>trains</ul><h3>entery 1</h3><p>your text here</p><h3>entery 2</h3><p>your text here</p></div>";
     }else if(name==="arc"){
