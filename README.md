@@ -179,8 +179,7 @@
         <button id="button" type="button">enter</button>
         </div><br>
         <div style="overflow:auto; height: 500px;">
-  <script>// TO MUCH CODE{
-  
+  <script>  
   var button = document.getElementById("button");
   document.getElementById("v").textContent="1.0.2";
   var onButtonClick = function() {
@@ -213,13 +212,13 @@
     }
         
     
-    //}
+    
     document.getElementById("message").innerHTML = greeting;
     if(ok){
     document.getElementById("message").innerHTML += other;
     }
   };
   button.addEventListener("click", onButtonClick);
-  //}</script>
+  </script>
     </body>
 </html>
