@@ -27,9 +27,6 @@
             <input id="name">
             <button onClick="check()">sign in</button>
         </div>
-
-    
-    
     <script>
         function check (){
             if(document.getElementById("name").value==="ARCoder"||document.getElementById("name").value==="test"||document.getElementById("name").value==="tsc"){
@@ -37,7 +34,6 @@
             }
         }
         document.getElementById("name").oninput = function() {check()};
-
     function prank (){
             document.getElementById("book").innerHTML="<h1>Prankster <em>and his</em> Neighbor</h1><hr><h2>Intro</h2><hr><p>Prankster did not like his Neighbor so he pranks him therefor everyone calls him Prankster.</p><hr><h2>Chapter 1</h2><hr><p>Prankster asked his Neighbor if he wanted to have lunch with him, his Neighbor said of course. Why not? so Prankster </p>";
         }
