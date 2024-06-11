@@ -156,6 +156,7 @@
         </style>
     </head>                   
         <h1>LINKER<sup>v<span id="v"></span></sup></h1>
+    <hr>
     <div id="message">          
         <label>username:
         <input id="name" type="text" placeholder="alaways needed."><br><br>
