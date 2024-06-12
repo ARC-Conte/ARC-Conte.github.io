@@ -171,7 +171,7 @@
     </head>                   
         <div class="h1">LINKER<sup>v<span id="v"></span></sup></div>
     <hr>
-    <span id="nta"><button id="tla" onclick='var myWindow = window.open("https://mcallisterschool.github.io/", "", "width=800,height=500");'>Try The Linker App</button><br><br></span>    
+    <span id="nta"></span>    
     <div id="message">
         <label>username:
         <input id="name" type="text" placeholder="alaways needed."><br><br>
@@ -186,8 +186,8 @@
         <h3>For new members:</h3>
         <p>You can get a higher rating if you do spectacular things or you get a new award.</p>
   <script>
-      if(screen.height===500&&screen.width===800){
-          document.getElementById("nta").innerHTML='';
+      if(screen.height!==500&&screen.width!==800){
+          document.getElementById("nta").innerHTML='<button id="tla" onclick='+'var myWindow = window.open("https://mcallisterschool.github.io/", "", "width=800,height=500");'+'>Try The Linker App</button><br><br>';
       }
   var button = document.getElementById("button");
   document.getElementById("v").textContent="1.0.2";
