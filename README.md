@@ -45,9 +45,16 @@
                 background-color: black;
                 border: double;
             }
-            h1{
+            .h1{
                 color: brown;
                 text-align: center;
+                font-size: 25px;
+            }
+            .h2{
+                font-size: 15px;
+            }
+            .h3{
+                font-size: 10px;
             }
             body{
                 background-color: var(--theam);
@@ -153,11 +160,19 @@
             .l{
                 font-size:xx-large;
             }
+            #tla{
+                border-radius:5px;
+                width:125px;
+                height: 75px;
+                border: none;
+                background: grey;
+            }
         </style>
     </head>                   
-        <h1>LINKER<sup>v<span id="v"></span></sup></h1>
+        <div class="h1">LINKER<sup>v<span id="v"></span></sup></div>
     <hr>
-    <div id="message">          
+    <button id="tla" onclick='var myWindow = window.open("", "", "width=750,height=450");'>Try The Linker App</button>
+    <div id="message">
         <label>username:
         <input id="name" type="text" placeholder="alaways needed."><br><br>
         password:
@@ -167,7 +182,7 @@
         <button id="button" type="button">enter</button>
         </div><br>
         <div style="overflow:auto; height: 500px;">
-        <h2>News</h2>
+        <div class="h2">News</div>
         <h3>For new members:</h3>
         <p>You can get a higher rating if you do spectacular things or you get a new award.</p>
   <script>  
@@ -180,7 +195,7 @@
     var password = document.getElementById("password").value;
     var name = document.getElementById("name").value;
     var greeting="<div id='window'>reload and type in a new linker<sup id='red'>code</sup></div>";
-    var other = "<div class='a'><h2>news</h2><p></p><div>";
+    var other = "<div class='a'><div class="h2">news</div><p></p><div>";
     //{
     if(name===apass[0] && password===apass[1] || name===apass[2] && password===apass[1]){
         greeting ="<div id='window'>Your LINKER<sup id='red'>Code</sup> was succesful.</div><div class='arc'><br><svg style='width:94px; height: 71px; border-radius:5px'><rect x='2' y='18' fill='rgb(16, 133, 0)' width='92' height='50'></rect><text font-size='25' font-family='Cursive' x='4' y='51'>ARC</text><text fill='red' font-size='25' font-family='Cursive' x='36' y='50'>C</text>         <text transform='rotate(-7 20,40)' font-family='Verdana' x='56' y='43'>oder</text>            <text transform='rotate(8 25,40)' font-family='Verdana' x='64' y='54'>👨🏻‍💻</text>  <text fill='red' transform='rotate(-7 20,40)' font-family='Verdana' x='54' y='42'>oder</text></svg> <label><select><option>bages:</option><option>gold member 🥇</option><option>coder 10💻  </option></select></label><br><br> Welcome, A.R.C.</div><span id='note'>are you geting the new verison</span>";
@@ -191,9 +206,9 @@
     }else if(name===mpass[0] && password===mpass[1] || name===mpass[2] && password===mpass[1]){
         greeting="<div id='window'>Your LINKER<sup id='red'>Code</sup> was succesful.</div><div class='painthon'>painthon<br><img class='icon-painthon' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/robot_male_2.png'> rating: <img class='rating' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png'><img class='rating' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png'><img class='rating' src='https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png'><label><select><option>bages:</option><option>join linker 🖥 </option></select></label><br><br> Welcome, painthon<br><ul>Fun Things<li>memfist kity pack<li>christmas pack<li>tescora park</ul></div>";
     }else if(name==="cpc"){
-        greeting="<div class='page'><h2>C.P.C.</h2><ul>skills:<li>coding(pjs)<li>trains</ul><h3>entery 1</h3><p>your text here</p><h3>entery 2</h3><p>your text here</p></div>";
+        greeting="<div class='page'><div class='h2'>C.P.C.</div><ul>skills:<li>coding(pjs)<li>trains</ul><h3>entery 1</h3><p>your text here</p><h3>entery 2</h3><p>your text here</p></div>";
     }else if(name==="arc"){
-        greeting="<div class='page'><h2>A.R.C.</h2><ul>skills:<li>coding(html, java, pjs, jQuery)<li>light show master<li>electronics</ul><h3>Show and tell</h3><p></p><h3>entery 2</h3><p>your text here</p><h3>entery 3</h3><p>your text here</p></div>";           
+        greeting="<div class='page'><div class='h2'>A.R.C.</div><ul>skills:<li>coding(html, java, pjs, jQuery)<li>light show master<li>electronics</ul><h3>Show and tell</h3><p></p><h3>entery 2</h3><p>your text here</p><h3>entery 3</h3><p>your text here</p></div>";           
     }else if(name==="cards"){
             greeting="<div id='id-card'><h3>A.R.C.</h3><p>coding</p></div>";
     }else{
