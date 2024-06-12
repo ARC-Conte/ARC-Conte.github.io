@@ -186,9 +186,7 @@
         <h3>For new members:</h3>
         <p>You can get a higher rating if you do spectacular things or you get a new award.</p>
   <script>
-      let width= screen.width;
-      let height= screen.height;
-      if(height===500&&width===800){
+      if(screen.height===500&&screen.width===800){
           document.getElementById("nta").innerHTML='';
       }
   var button = document.getElementById("button");
