@@ -171,7 +171,7 @@
     </head>                   
         <div class="h1">LINKER<sup>v<span id="v"></span></sup></div>
     <hr>
-    <button id="tla" onclick='var myWindow = window.open("", "", "width=750,height=450");'>Try The Linker App</button>
+    <button id="tla" onclick='var myWindow = window.open("https://mcallisterschool.github.io/", "", "width=800,height=500");'>Try The Linker App</button><br>
     <div id="message">
         <label>username:
         <input id="name" type="text" placeholder="alaways needed."><br><br>
