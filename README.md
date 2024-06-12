@@ -171,7 +171,7 @@
     </head>                   
         <div class="h1">LINKER<sup>v<span id="v"></span></sup></div>
     <hr>
-    <button id="tla" onclick='var myWindow = window.open("https://mcallisterschool.github.io/", "", "width=800,height=500");'>Try The Linker App</button><br><br><br><br>
+    <span id="nta"></span>    
     <div id="message">
         <label>username:
         <input id="name" type="text" placeholder="alaways needed."><br><br>
@@ -196,6 +196,9 @@
     var name = document.getElementById("name").value;
     var greeting="<div id='window'>reload and type in a new linker<sup id='red'>code</sup></div>";
     var other = "<div class='a'><div class='h2'>news</div><p></p><div>";
+      if(screen.hight!==500&&screen.width!==800){
+          document.getElementById("nta").innerHTML='<button id="tla" onclick='var myWindow = window.open("https://mcallisterschool.github.io/", "", "width=800,height=500");'>Try The Linker App</button><br><br>';
+      }
     if(name===apass[0] && password===apass[1] || name===apass[2] && password===apass[1]){
         greeting ="<div id='window'>Your LINKER<sup id='red'>Code</sup> was succesful.</div><div class='arc'><br><svg style='width:94px; height: 71px; border-radius:5px'><rect x='2' y='18' fill='rgb(16, 133, 0)' width='92' height='50'></rect><text font-size='25' font-family='Cursive' x='4' y='51'>ARC</text><text fill='red' font-size='25' font-family='Cursive' x='36' y='50'>C</text>         <text transform='rotate(-7 20,40)' font-family='Verdana' x='56' y='43'>oder</text>            <text transform='rotate(8 25,40)' font-family='Verdana' x='64' y='54'>👨🏻‍💻</text>  <text fill='red' transform='rotate(-7 20,40)' font-family='Verdana' x='54' y='42'>oder</text></svg> <label><select><option>bages:</option><option>gold member 🥇</option><option>coder 10💻  </option></select></label><br><br> Welcome, A.R.C.</div><span id='note'>are you geting the new verison</span>";
     }else if(name==="tsc" && password==="ttt" || name==="lab" && password==="ttt"){
