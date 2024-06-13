@@ -189,7 +189,9 @@
       function add(){
           var myWindow = window.open("https://mcallisterschool.github.io/", "", "width=800,height=500");
       }
-      if(screen.height!==500&&screen.width!==800){
+      let width = screen.width;
+      let height = screen.height;
+      if(height!==500&&width!==800){
           document.getElementById("nta").innerHTML='<button id="tla" onclick="add();">Try The Linker App</button><br><br>';
       }
   var button = document.getElementById("button");
