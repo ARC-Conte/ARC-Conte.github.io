@@ -186,8 +186,11 @@
         <h3>For new members:</h3>
         <p>You can get a higher rating if you do spectacular things or you get a new award.</p>
   <script>
+      function add(){
+          var myWindow = window.open("https://mcallisterschool.github.io/", "", "width=800,height=500");
+      }
       if(screen.height!==500&&screen.width!==800){
-          document.getElementById("nta").innerHTML='<button id="tla" onclick='+'var myWindow = window.open("https://mcallisterschool.github.io/", "", "width=800,height=500");'+'>Try The Linker App</button><br><br>';
+          document.getElementById("nta").innerHTML='<button id="tla" onclick="add">Try The Linker App</button><br><br>';
       }
   var button = document.getElementById("button");
   document.getElementById("v").textContent="1.0.2";
