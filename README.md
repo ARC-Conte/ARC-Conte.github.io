@@ -1,1 +1,3 @@
-<h1>It's not here anymore go to <a href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">https://mcallisterschool.github.io/mcallisterschool.github.io.linker/</a></h1>
+<h1>ARCoder's pages</h1>
+<h2><a href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">linker</a></h2>
+<h2><a href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">places</a></h2>
