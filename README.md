@@ -1,4 +1,5 @@
-<style>   
+<style>  
+   a .anchorjs-link {display: none;}
    h1{ display: none; } 
 </style>
 <link rel="shortcut icon" type="image/x-icon" href="https://github.com/McAllisterSchool/mcallisterschool.github.io/blob/main/image.jpg?raw=true">
