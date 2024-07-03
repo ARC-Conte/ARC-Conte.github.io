@@ -66,6 +66,7 @@ body {
 }
 /* Main column */
 .main {   
+   width:;75%
   -ms-flex: 70%; /* IE10 */
   flex: 70%;
   background-color: white;
