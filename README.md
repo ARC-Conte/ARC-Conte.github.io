@@ -177,5 +177,5 @@ ul li a{
     </p>
     <br>
     <h2>About ARCoder</h2>
-    <div class="fakeimg" style="height:175px; overflow:auto;">ARCoder programs html, pjs, jQwery, css, java script. He is the owner of Chess Club 2 on chess.com.</div>
+    <div class="fakeimg" style="height:175px; overflow:auto;">ARCoder programs html, pjs, jQwery, css, java script. He is the owner of Chess Club 1 on chess.com.</div>
 </body>
