@@ -99,14 +99,10 @@ padding-right: 30px;
 color:rgb(17, 0, 255);
 }
 body{
-
-    background-color:rgb(13, 255, 0);
-
+   background-color:rgb(13, 255, 0);
   }
   span{
-
-    font-size:25px;
-    
+    font-size:25px;    
 }
 #navbar {
   overflow: hidden;
@@ -171,11 +167,10 @@ ul li a{
     <div style="width:500px;"><h2>My websites:</h2><ul>
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
-        <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a>All my best images for you to see.
+        <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
     </ul></div>
   </div>
-  <div class="main">
-    
+  <div class="main">    
     <p>
       <ul>
         <li><a target="_blank" class="hov" href="https://www.chess.com/member/arcaboose">Follow me on chess.com</a>
