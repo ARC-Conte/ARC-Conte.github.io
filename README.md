@@ -168,8 +168,6 @@ ul li a{
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
         <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
-    </ul></div>
-  </div>
   <div class="main">    
     <p>
       <ul>
@@ -180,9 +178,4 @@ ul li a{
     <br>
     <h2>About ARCoder</h2>
     <div class="fakeimg" style="height:175px; overflow:auto;">ARCoder programs html, pjs, jQwery, css, java script. He is the owner of Chess Club 2 on chess.com.</div>
-  </div>
-</div>
-</div>
-</div>
-</div>
 </body>
