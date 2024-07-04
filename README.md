@@ -64,8 +64,8 @@ body {
   background-color: #f1f1f1;
   padding: 20px;
 }
-/* Main column */
-.main {   
+/* maintext column */
+.maintext {   
    width:;75%
   -ms-flex: 70%; /* IE10 */
   flex: 70%;
@@ -169,7 +169,7 @@ ul li a{
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
         <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
-  <div class="main">    
+  <div class="maintext">    
     <p>
       <ul>
         <li><a target="_blank" class="hov" href="https://www.chess.com/member/arcaboose">Follow me on chess.com</a>
