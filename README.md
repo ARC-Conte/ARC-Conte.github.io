@@ -3,7 +3,6 @@
    h1{ display: none; } 
   body{width: 100%;}
 </style> 
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
   box-sizing: border-box;
