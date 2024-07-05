@@ -1,11 +1,7 @@
-
-<head>
-   <style>  
-   a .container-lg px-3 my-5 markdown-body {display: none;}
+ <style>  
+   .container-lg px-3 my-5 markdown-body {display: none;}
    h1{ display: none; } 
 </style>
-<title>ARCoder's home</title>
-<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -149,8 +145,6 @@ ul li a{
   text-decoration: none;
 }
 </style>
-</head>
-<body>
 <div class="header">
   <svg style='width:200;height:70;cursor:pointer;border-radius:5px'>
     <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
@@ -177,4 +171,4 @@ ul li a{
         <li><a target="_blank" class="hov" href="https://www.chess.com/club/chess-club-1-4">Join my chess.com club</a>
     <br>
     <h2>About ARCoder</h2>
-    <div class="fakeimg" style="height:175px; overflow:auto;">ARCoder programs html, pjs, jQwery, css, java script. He is the owner of Chess Club 1 on chess.com.</div>
+    <div class="fakeimg" style="height:175px; overflow:auto;">ARCoder programs html, pjs, jQwery, css, java script. And is the owner of Chess Club 1 on chess.com.</div>
