@@ -1,7 +1,8 @@
  <style>  
    .container-lg px-3 my-5 markdown-body {display: none;}
    h1{ display: none; } 
-</style>
+  body{width: 100%;}
+</style> 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
