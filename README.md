@@ -169,7 +169,7 @@ ul li a{
     <div style="width: 75%;"><div id="my-websites"><div class="fh2">My websites:</div><ul>
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
-        </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
+        </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.images/">Images</a> All my best images for you to see.
     <p>
       </p><ul>
         <li><a target="_blank" class="hov" href="https://www.chess.com/member/arcaboose">Follow me on chess.com</a></li>
