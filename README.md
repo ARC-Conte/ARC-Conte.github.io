@@ -1,9 +1,3 @@
-
- <h1><a href="https://mcallisterschool.github.io/">McAllisterSchool</a></h1>
-      
-
-      <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/McAllisterSchool/mcallisterschool.github.io/d4fd1ba9f3acbd4a22fd07f62e41439c9b8a31d8/image.jpg">
-
 <style>  
    .container-lg px-3 my-5 markdown-body {display: none;}
    h1{ display: none; } 
