@@ -1,9 +1,15 @@
 
- <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/McAllisterSchool/mcallisterschool.github.io/d4fd1ba9f3acbd4a22fd07f62e41439c9b8a31d8/image.jpg"><style>  
+ <h1><a href="https://mcallisterschool.github.io/">McAllisterSchool</a></h1>
+      
+
+      <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/McAllisterSchool/mcallisterschool.github.io/d4fd1ba9f3acbd4a22fd07f62e41439c9b8a31d8/image.jpg">
+
+<style>  
    .container-lg px-3 my-5 markdown-body {display: none;}
    h1{ display: none; } 
   body{width: 100%;}
-</style> 
+</style>
+
 <style>
 * {
   box-sizing: border-box;
@@ -146,30 +152,31 @@ ul li a{
   text-decoration: none;
 }
 </style>
+
 <div class="header">
-  <svg style='width:200;height:70;cursor:pointer;border-radius:5px'>
-    <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
-    <path d='M 40 49 22 12 10 49' stroke='rgb(255, 0,0)' fill='rgb(9, 255, 0)' stroke-width='4' transform='scale(0.9,0.9) translate(-2,0)'></path>
-    <path d='M 36 35  13 35' stroke='rgb(255, 0,0)' fill='rgb(255, 130, 255)' stroke-width='4' transform='scale(0.9,0.9) translate(-2,0)'></path>
-    <path d='M 61 12  61 49' stroke='rgb(255, 0,0)' fill='rgb(21, 255, 0)' stroke-width='4' transform='scale(0.9,0.9) translate(-2,0)'></path>
-    <path d='M 60 27  77 50 61 29 75  26 70 15 60 11 62 31' stroke='rgb(255, 0,0)' fill='rgb(0, 255, 30)' stroke-width='4' transform='scale(0.9,0.9) translate(-2,0)'></path>
-    <path d='M 140 47 120 49 113 45 104 31 113 15 129 5 140 8' stroke='rgb(255, 0,0)' fill='rgb(0, 255, 30)' stroke-width='4' transform='scale(0.9,0.9) translate(-2,0)'></path>
+  <svg style="width:200;height:70;cursor:pointer;border-radius:5px">
+    <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"></rect>
+    <path d="M 40 49 22 12 10 49" stroke="rgb(255, 0,0)" fill="rgb(9, 255, 0)" stroke-width="4" transform="scale(0.9,0.9) translate(-2,0)"></path>
+    <path d="M 36 35  13 35" stroke="rgb(255, 0,0)" fill="rgb(255, 130, 255)" stroke-width="4" transform="scale(0.9,0.9) translate(-2,0)"></path>
+    <path d="M 61 12  61 49" stroke="rgb(255, 0,0)" fill="rgb(21, 255, 0)" stroke-width="4" transform="scale(0.9,0.9) translate(-2,0)"></path>
+    <path d="M 60 27  77 50 61 29 75  26 70 15 60 11 62 31" stroke="rgb(255, 0,0)" fill="rgb(0, 255, 30)" stroke-width="4" transform="scale(0.9,0.9) translate(-2,0)"></path>
+    <path d="M 140 47 120 49 113 45 104 31 113 15 129 5 140 8" stroke="rgb(255, 0,0)" fill="rgb(0, 255, 30)" stroke-width="4" transform="scale(0.9,0.9) translate(-2,0)"></path>
     <text x="126" y="16">software</text>
     <text x="126" y="30">desing</text></svg>
 </div>
 <div>
-<div class="row">
-  <div class="paddleft paddright">
+<div class="paddleft paddright">
   <div class="side paddleft">
-    <div style="width:500px;"><h2>My websites:</h2><ul>
+    <div style="width: 50%px;"><h2 id="my-websites">My websites:<a class="anchorjs-link " href="#my-websites" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2><ul>
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
-      <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
-        <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
+      </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
+        </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
     <p>
-      <ul>
+      </p><ul>
         <li><a target="_blank" class="hov" href="https://www.chess.com/member/arcaboose">Follow me on chess.com</a></li>
         <li><a target="_blank" class="hov" href="https://www.chess.com/club/chess-club-1-4">Join my chess.com club</a></li>
     <br>
        <hr>
-    <h2>About ARCoder</h2>
+    <h2 id="about-arcoder">About ARCoder<a class="anchorjs-link " href="#about-arcoder" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 ARCoder programs html, pjs, jQwery, css, java script. And is the owner of Chess Club 1 on chess.com.
+</ul><p></p></li></ul></div></div></div></div>
