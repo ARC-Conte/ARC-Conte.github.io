@@ -145,8 +145,12 @@ ul li a{
   color:rgb(0, 146, 0);
   text-decoration: none;
 }
+.fh2{
+   font-size: 24px;
+    font-weight: 600;
+}
 </style>
-
+</div>
 <div class="header">
   <svg style="width:200;height:70;cursor:pointer;border-radius:5px">
     <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"></rect>
@@ -161,7 +165,7 @@ ul li a{
 <div>
 <div class="paddleft paddright">
   <div class="side paddleft">
-    <div style="width: 50%px;"><h2 id="my-websites">My websites:<a class="anchorjs-link " href="#my-websites" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2><ul>
+    <div style="width: 50%px;"><div class="fh2"  id="my-websites">My websites:<a class="anchorjs-link " href="#my-websites" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2><ul>
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
         </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
@@ -171,6 +175,6 @@ ul li a{
         <li><a target="_blank" class="hov" href="https://www.chess.com/club/chess-club-1-4">Join my chess.com club</a></li>
     <br>
        <hr>
-    <h2 id="about-arcoder">About ARCoder<a class="anchorjs-link " href="#about-arcoder" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+    <div class="fh2" id="about-arcoder">About ARCoder<a class="anchorjs-link " href="#about-arcoder" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></div>
 ARCoder programs html, pjs, jQwery, css, java script. And is the owner of Chess Club 1 on chess.com.
 </ul><p></p></li></ul></div></div></div></div>
