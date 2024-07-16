@@ -165,7 +165,7 @@ ul li a{
 <div>
 <div class="paddleft paddright">
   <div class="side paddleft">
-    <div style="width: 50%px;"><div class="fh2"  id="my-websites">My websites:<a class="anchorjs-link " href="#my-websites" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2><ul>
+    <div style="width: 50%px;"><div class="fh2"  id="my-websites">My websites:<a class="anchorjs-link " href="#my-websites" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></div<ul>
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
         </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
