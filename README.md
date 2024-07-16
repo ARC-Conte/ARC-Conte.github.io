@@ -170,5 +170,6 @@ ul li a{
         <li><a target="_blank" class="hov" href="https://www.chess.com/member/arcaboose">Follow me on chess.com</a></li>
         <li><a target="_blank" class="hov" href="https://www.chess.com/club/chess-club-1-4">Join my chess.com club</a></li>
     <br>
+       <hr>
     <h2>About ARCoder</h2>
 ARCoder programs html, pjs, jQwery, css, java script. And is the owner of Chess Club 1 on chess.com.
