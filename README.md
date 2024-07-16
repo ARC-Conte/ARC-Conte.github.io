@@ -150,7 +150,6 @@ ul li a{
     font-weight: 600;
 }
 </style>
-</div>
 <div class="header">
   <svg style="width:200;height:70;cursor:pointer;border-radius:5px">
     <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"></rect>
