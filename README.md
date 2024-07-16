@@ -150,6 +150,8 @@ ul li a{
     font-weight: 600;
 }
 </style>
+
+
 <div class="header">
   <svg style="width:200;height:70;cursor:pointer;border-radius:5px">
     <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"></rect>
@@ -164,7 +166,7 @@ ul li a{
 <div>
 <div class="paddleft paddright">
   <div class="side paddleft">
-    <div style="width: 50%px;"><div class="fh2"  id="my-websites">My websites:<a class="anchorjs-link " href="#my-websites" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></div<ul>
+    <div style="width: 75%;"><div id="my-websites"><div class="fh2">My websites:</div><a class="anchorjs-link " href="#my-websites" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a><ul>
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
         </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
@@ -176,4 +178,3 @@ ul li a{
        <hr>
     <div class="fh2" id="about-arcoder">About ARCoder<a class="anchorjs-link " href="#about-arcoder" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></div>
 ARCoder programs html, pjs, jQwery, css, java script. And is the owner of Chess Club 1 on chess.com.
-</ul><p></p></li></ul></div></div></div></div>
