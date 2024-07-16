@@ -166,7 +166,7 @@ ul li a{
 <div>
 <div class="paddleft paddright">
   <div class="side paddleft">
-    <div style="width: 75%;"><div id="my-websites"><div class="fh2">My websites:</div><a class="anchorjs-link " href="#my-websites" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a><ul>
+    <div style="width: 75%;"><div id="my-websites"><div class="fh2">My websites:<hr></div><ul>
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
         </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/images/">Images</a> All my best images for you to see.
@@ -176,5 +176,5 @@ ul li a{
         <li><a target="_blank" class="hov" href="https://www.chess.com/club/chess-club-1-4">Join my chess.com club</a></li>
     <br>
        <hr>
-    <div class="fh2" id="about-arcoder">About ARCoder<a class="anchorjs-link " href="#about-arcoder" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></div>
+    <div class="fh2" id="about-arcoder">About ARCoder<hr></div>
 ARCoder programs html, pjs, jQwery, css, java script. And is the owner of Chess Club 1 on chess.com.
