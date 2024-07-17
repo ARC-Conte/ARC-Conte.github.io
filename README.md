@@ -15,7 +15,7 @@ body {
 }
 /* Header/logo Title */
 .header {
-  padding: 50%;
+  padding: 35%;
   text-align: center;
   background: #1abc9c;
   color: white;
@@ -173,7 +173,6 @@ ul li a{
       </p><ul>
         <li><a target="_blank" class="hov" href="https://www.chess.com/member/arcaboose">Follow me on chess.com</a></li>
         <li><a target="_blank" class="hov" href="https://www.chess.com/club/chess-club-1-4">Join my chess.com club</a></li>
-         <li><a target="_blank" class="hov" href="https://www.chess.com/blog/ARCaboose">Check out my blog</a></li>
     <br>          
     <div class="fh2" id="about-arcoder">About ARCoder</div>
 ARCoder programs html, pjs, jQwery, css, java script. And is the owner of Chess Club 1 on chess.com.
