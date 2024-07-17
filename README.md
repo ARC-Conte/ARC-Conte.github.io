@@ -1,4 +1,4 @@
-<style>  
+ <style>  
    .container-lg px-3 my-5 markdown-body {display: none;}
    h1{ display: none; } 
   body{width: 100%;}
@@ -88,8 +88,8 @@ body {
 .red {
   background-color: red;
 }
-.paddleft{
-    padding-left: 30px;
+.text{
+    padding-left: 0px;
 }
 .paddright{
 padding-right: 30px;
@@ -151,7 +151,6 @@ ul li a{
 }
 </style>
 
-
 <div class="header">
   <svg style="width:200;height:70;cursor:pointer;border-radius:5px">
     <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"></rect>
@@ -164,9 +163,9 @@ ul li a{
     <text x="126" y="30">desing</text></svg>
 </div>
 <div>
-<div class="paddleft paddright">
-  <div class="side paddleft">
-    <div style="width: 75%;"><div id="my-websites"><div class="fh2">My websites:</div><ul>
+<div class="text">
+  <div class="side text">
+    <div style="width: 75%;padding: 35px;"><div id="my-websites"><div class="fh2">My websites:</div><ul>
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
         </li>
@@ -175,7 +174,7 @@ ul li a{
         <li><a target="_blank" class="hov" href="https://www.chess.com/member/arcaboose">Follow me on chess.com</a></li>
         <li><a target="_blank" class="hov" href="https://www.chess.com/club/chess-club-1-4">Join my chess.com club</a></li>
          <li><a target="_blank" class="hov" href="https://www.chess.com/blog/ARCaboose">Check out my blog</a></li>
-    <br>
-       
+    <br>          
     <div class="fh2" id="about-arcoder">About ARCoder</div>
 ARCoder programs html, pjs, jQwery, css, java script. And is the owner of Chess Club 1 on chess.com.
+</ul></ul>
