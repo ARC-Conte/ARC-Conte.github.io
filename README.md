@@ -1,6 +1,3 @@
-
-
-
 <div class="header">
   <svg style="width:200;height:70;cursor:pointer;border-radius:5px">
     <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"></rect>
@@ -14,8 +11,7 @@
 </div>
 <div>
 <div class="text">
-  <div class="side text">
-    <div style="width: 75%;padding: 35px;"><div id="my-websites"><div class="fh2">My websites:</div><ul>
+  <div style="padding: 35px;     background-color: #f1f1f1;"><div id="my-websites"><div class="fh2">My websites:</div><ul>
       <li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/mcallisterschool.github.io.linker/">Linker</a> a web site with news and fun things to do.
       </li><li><a target="_blank" class="hov" href="https://mcallisterschool.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and P.
         </li>        
@@ -26,4 +22,3 @@
     <br>          
     <div class="fh2" id="about-arcoder">About ARCoder</div>
 ARCoder programs html, pjs, jQwery, css, java script. And is the owner of Chess Club 1 on chess.com.
-
