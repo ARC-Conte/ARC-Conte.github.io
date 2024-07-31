@@ -16,7 +16,7 @@
       </li><li><a target="_blank" class="hov" href="https://arc-conte.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and Pennsylvania.
         </li>       <br> 
       <li><a target="_blank" class="hov" href="https://www.chess.com/member/arcaboose">Follow me on chess.com</a></li>
-        <li><a target="_blank" class="hov" href="https://www.chess.com/club/chess-club-1-4">Join my chess.com club</a></li></ul>
+        <li><a target="_blank" class="hov" href="https://www.chess.com/club/chess-club-1-4/join">Join my chess.com club</a></li></ul>
     <p>
       </p>
     <br>          
