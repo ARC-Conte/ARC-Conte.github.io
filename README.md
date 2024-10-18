@@ -1,6 +1,6 @@
 <div class="header">
   <svg style="width:200;height:70;cursor:pointer;border-radius:5px">
-    <rect width="300" height="100" style="fill: ;stroke-width:3;stroke:rgb(0,0,0)"></rect>
+    <rect width="300" height="100" style="fill: dark-green;stroke-width:3;stroke:rgb(0,0,0)"></rect>
     <path d="M 40 49 22 12 10 49" stroke="rgb(255, 0,0)" fill="rgb(9, 255, 0)" stroke-width="4" transform="scale(0.9,0.9) translate(-2,0)"></path>
     <path d="M 36 35  13 35" stroke="rgb(255, 0,0)" fill="rgb(255, 130, 255)" stroke-width="4" transform="scale(0.9,0.9) translate(-2,0)"></path>
     <path d="M 61 12  61 49" stroke="rgb(255, 0,0)" fill="rgb(21, 255, 0)" stroke-width="4" transform="scale(0.9,0.9) translate(-2,0)"></path>
@@ -12,7 +12,7 @@
 <div>
 <div class="text">
   <div style="padding: 35px;     background-color: #f1f1f1;"><div id="my-websites"><div class="fh2">My websites:</div><ul>
-      <li><a target="_blank" class="hov" href="arc-conte.github.io/Linker/">Linker</a> a web site with news and fun things to do.
+      <li><a target="_blank" class="hov" href="https://arc-conte.github.io/Linker/">Linker</a> a web site with news and fun things to do.
         <li><a target="_blank" class="hov" href="https://arc-conte.github.io/trains/">Trains</a> a web site for people who want to run model trains.
       </li>
       </li><li><a target="_blank" class="hov" href="https://arc-conte.github.io/places/">Places</a> a web site that gives you fun places to go in Ohio and Pennsylvania.
